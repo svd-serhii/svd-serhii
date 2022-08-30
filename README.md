@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Serhii
 
-### I'm Fullstack Developer
+### I'm Junior Fullstack Developer
 
 - 💪 I like to write code
 - 🛞 I like cars and I like to drive cars
