@@ -6,7 +6,7 @@
 - 🖥 I'm currently learning **everything I need on the path of a Fullstack developer**
 - 💪 I am trying to find **time to become a professional in the field of frontend and backend development**
 - 📬 How to reach me: **svdemchenko@gmail.com**
-- ⚡️ Fun fact: **I finally found something that really interests and brings me pleasure**
+- ⚡️ Fun fact: **I have finally discovered something that catches my interest and brings me joy.**
 
 ## My stack
 
